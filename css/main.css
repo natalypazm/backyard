@@ -84,7 +84,7 @@ section
 section h1{
 	color:white;
 	font-size:36px;
-	font-style:"lato";
+	font-family:"open sans";
 }
 section p{
 	color:white;
@@ -99,11 +99,13 @@ section p{
 	padding: 15px;
 	text-align: center;
 	height:120px;
-	width:180px;
+	width:170px;
 }
 .block-form h3{
 	color:white;
 	margin:5px;
+	font-size:15px;
+	font-family:"open sans";
 }
 .block-form p{
 	margin:8px 0;
@@ -112,6 +114,9 @@ section p{
 	color:white;
 	background:#01A9DB;
 	border:1px solid #01A9DB ;
+	font-size:11px;
+	padding:4px;
+
 }
 .block-form input, .block-form button
 {

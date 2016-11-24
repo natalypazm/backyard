@@ -126,7 +126,7 @@ section p{
 footer p{
 	color:#848484;
 	font-size:12px;
-	margin:10px 265px;
+	margin:10px 270px;
 }
 footer span{
 	color:blue;
@@ -153,5 +153,8 @@ footer span{
 	.block-form
 	{
 		margin: 0;
+	}
+	body{
+		width: 100%;
 	}
 }
